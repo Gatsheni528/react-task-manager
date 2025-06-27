@@ -1,10 +1,20 @@
 {
-  "devDependencies": {
-    "vite": "^7.0.0"
-  },
+  "name": "react-task-manager",
+  "version": "1.0.0",
+  "description": "A React Task Manager with Tailwind and API integration",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0",
+    "@vitejs/plugin-react": "^4.1.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "lucide-react": "^0.314.0"
   }
 }
