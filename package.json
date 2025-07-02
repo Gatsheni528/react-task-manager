@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "start": "vite",
+    "deploy": "echo \"Add your deploy script here\""
   },
   "dependencies": {
     "lucide-react": "^0.525.0",
