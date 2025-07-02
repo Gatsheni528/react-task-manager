@@ -1,12 +1,67 @@
-# React + Vite
+# React Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive task management application built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, edit, and delete tasks
+- Persistent storage using localStorage
+- Responsive design with dark and light modes
+- Clean and modular React components
+- Built with Vite for fast development and build times
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Check out the live demo here:  
+https://react-task-manager-8srm.vercel.app/
+
+## Installation
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/react-task-manager.git
+   cd react-task-manager
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run locally:
+
+bash
+Copy
+Edit
+npm run dev
+Build for production:
+
+bash
+Copy
+Edit
+npm run build
+Preview production build:
+
+bash
+Copy
+Edit
+npm run preview
+Technologies Used
+React 18
+
+Vite
+
+Tailwind CSS (if you used it)
+
+localStorage API
+
+Deployment
+This project is deployed on Vercel. Every push to the master branch automatically triggers a deployment.
+
+Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License.
+
+Made by Mpho/Gatsheni528
