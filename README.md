@@ -13,7 +13,7 @@ A simple and intuitive task management application built with React and Vite.
 ## Demo
 
 Check out the live demo here:  
-https://react-task-manager-8srm.vercel.app/
+https://react-task-manager-rose-nine.vercel.app/
 
 ## Installation
 
